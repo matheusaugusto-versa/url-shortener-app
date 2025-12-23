@@ -1,0 +1,22 @@
+{
+  "invalid_email": "Invalid email format",
+  "email_required": "Email is required",
+  "password_required": "Password is required",
+  "password_too_short": "Password must be at least 8 characters",
+  "password_uppercase": "Password must contain at least one uppercase letter",
+  "password_number": "Password must contain at least one number",
+  "passwords_mismatch": "Passwords do not match",
+  "please_confirm_password": "Please confirm your password",
+  "invalid_url": "Invalid URL format",
+  "url_required": "URL is required",
+  "url_http_https": "URL must start with http:// or https://",
+  "url_too_long": "URL must not exceed 2048 characters",
+  "url_cannot_be_empty": "URL cannot be empty",
+  "please_enter_url": "Please enter a URL",
+  "email_min_length": "Email must be at least 3 characters",
+  "email_max_length": "Email must not exceed 255 characters",
+  "url_max_length": "URL must not exceed 2048 characters",
+  "alias_max_length": "Alias must not exceed 50 characters",
+  "alias_invalid_chars": "Alias can only contain letters, numbers, hyphens, and underscores",
+  "validation_failed": "Validation failed"
+}

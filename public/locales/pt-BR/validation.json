@@ -1,0 +1,22 @@
+{
+  "invalid_email": "Formato de email inválido",
+  "email_required": "Email é obrigatório",
+  "password_required": "Senha é obrigatória",
+  "password_too_short": "Senha deve ter pelo menos 8 caracteres",
+  "password_uppercase": "Senha deve conter pelo menos uma letra maiúscula",
+  "password_number": "Senha deve conter pelo menos um número",
+  "passwords_mismatch": "As senhas não coincidem",
+  "please_confirm_password": "Por favor, confirme sua senha",
+  "invalid_url": "Formato de URL inválido",
+  "url_required": "URL é obrigatória",
+  "url_http_https": "URL deve começar com http:// ou https://",
+  "url_too_long": "URL não deve exceder 2048 caracteres",
+  "url_cannot_be_empty": "URL não pode ser vazia",
+  "please_enter_url": "Por favor, digite uma URL",
+  "email_min_length": "Email deve ter pelo menos 3 caracteres",
+  "email_max_length": "Email não deve exceder 255 caracteres",
+  "url_max_length": "URL não deve exceder 2048 caracteres",
+  "alias_max_length": "Alias não deve exceder 50 caracteres",
+  "alias_invalid_chars": "Alias pode conter apenas letras, números, hífens e sublinhados",
+  "validation_failed": "Validação falhou"
+}

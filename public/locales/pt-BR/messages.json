@@ -1,0 +1,16 @@
+{
+  "login_success": "Bem-vindo de volta! Você está conectado.",
+  "register_success": "Conta criada com sucesso! Por favor, faça login.",
+  "logout_success": "Você foi desconectado com sucesso.",
+  "create_success": "✓ URL encurtada com sucesso! Verifique a tabela abaixo.",
+  "update_success": "URL atualizada com sucesso!",
+  "delete_success": "URL deletada com sucesso!",
+  "copy_success": "Link copiado para a área de transferência!",
+  "refresh_success": "URLs atualizadas com sucesso!",
+  "create_error": "Falha ao criar URL encurtada. Por favor, tente novamente.",
+  "update_error": "Falha ao atualizar URL. Por favor, tente novamente.",
+  "delete_error": "Falha ao deletar URL. Por favor, tente novamente.",
+  "network_error": "Erro de rede. Por favor, verifique sua conexão.",
+  "urls_refreshed": "URLs atualizadas",
+  "unknown_error": "Um erro inesperado ocorreu. Por favor, tente novamente."
+}

@@ -1,0 +1,16 @@
+{
+  "login_success": "Welcome back! You're now logged in.",
+  "register_success": "Account created successfully! Please log in.",
+  "logout_success": "You've been logged out successfully.",
+  "create_success": "✓ URL shortened successfully! Check the table below.",
+  "update_success": "URL updated successfully!",
+  "delete_success": "URL deleted successfully!",
+  "copy_success": "Link copied to clipboard!",
+  "refresh_success": "URLs refreshed successfully!",
+  "create_error": "Failed to create shortened URL. Please try again.",
+  "update_error": "Failed to update URL. Please try again.",
+  "delete_error": "Failed to delete URL. Please try again.",
+  "network_error": "Network error. Please check your connection.",
+  "urls_refreshed": "URLs refreshed",
+  "unknown_error": "An unexpected error occurred. Please try again."
+}
